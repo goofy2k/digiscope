@@ -7,4 +7,6 @@ My idea is to use an ESP32 for acquisition of the data. The GUI can be implement
 
 ## Web search for ideas, background info etc.
 
+1. [github.com/pschatzmann/logic-analyzer](https://github.com/pschatzmann/logic-analyzer)
+2. 
 ...
